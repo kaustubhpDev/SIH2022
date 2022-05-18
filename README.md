@@ -2,5 +2,7 @@
 Hologram_project
 # Team
 Aditya Chandhoke  
-Abhijeet Jain
+Abhijeet Jain  
+Mayur Mahajan  
 Kaustubh Pardhi
+

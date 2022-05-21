@@ -1,0 +1,4 @@
+Use this file to share any useful resources such as articles, blogs or video course links. Feel free to contribute resources that are related to our project. The purpose of this file is to assist each other choose from the best resources, so one doesn't have to go through hundreds of options available on the Internet, thus make sure the resources are credible (in the sense you found them helpful while learning.)
+
+Figma Crash Course :
+https://youtu.be/Gu1so3pz4bA by DesignCourse (I personally found this very helpful regarding Figma, so I'd recommend Abhi to go through this once)

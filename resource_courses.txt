@@ -2,3 +2,7 @@ Use this file to share any useful resources such as articles, blogs or video cou
 
 Figma Crash Course :
 https://youtu.be/Gu1so3pz4bA by DesignCourse (I personally found this very helpful regarding Figma, so I'd recommend Abhi to go through this once)
+
+GitHub branching model :
+https://nvie.com/posts/a-successful-git-branching-model/
+https://www.youtube.com/watch?v=Uszj_k0DGsg
